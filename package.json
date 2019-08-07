@@ -1,0 +1,20 @@
+{
+  "name": "thm",
+  "displayName": "Thm",
+  "description": "TODO",
+  "version": "0.0.1",
+  "publisher": "TODO",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thm",
+        "uiTheme": "vs",
+        "path": "./themes/thm.json"
+      }
+    ]
+  }
+}

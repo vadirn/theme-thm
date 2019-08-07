@@ -1,0 +1,55 @@
+{
+  "name": "Thm",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FAFAFA",
+    "editor.foreground": "#2E2E2E",
+    "editorLineNumber.foreground": "#2E2E2E",
+    "editorLineNumber.activeForeground": "#2E2E2E",
+    "statusBar.background": "#FAFAFA",
+    "statusBar.foreground": "#919191",
+    "statusBar.border": "#D6D6D6",
+    "activityBar.background": "#D6D6D6",
+    "activityBar.foreground": "#919191",
+    "activityBarBadge.background": "#919191",
+    "activityBarBadge.foreground": "#FAFAFA"
+  },
+  "tokenColors": [
+    {
+      "scope": "punctuation, comment, meta.brace, keyword, storage.type, support.type.property-name.css",
+      "settings": {
+        "foreground": "#919191"
+      }
+    },
+    {
+      "scope": "string, support.constant.property-value.css, gitDecoration.modifiedResourceForeground, gitDecoration.addedResourceForeground",
+      "settings": {
+        "foreground": "#1C992C"
+      }
+    },
+    {
+      "scope": "entity.name.function, storage.type.function.arrow, support.function.misc.css",
+      "settings": {
+        "foreground": "#242CCB"
+      }
+    },
+    {
+      "scope": "constant.language.null, constant.numeric, constant.language.boolean, gitDecoration.deletedResourceForeground",
+      "settings": {
+        "foreground": "#DC3E4E"
+      }
+    },
+    {
+      "scope": "entity.name.tag, punctuation.definition.tag, gitDecoration.conflictingResourceForeground",
+      "settings": {
+        "foreground": "#CC8B00"
+      }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
