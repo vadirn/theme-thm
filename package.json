@@ -1,6 +1,6 @@
 {
   "name": "thm",
-  "displayName": "Thm",
+  "displayName": "THM",
   "description": "TODO",
   "version": "0.0.1",
   "publisher": "TODO",
@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Thm",
+        "label": "THM",
         "uiTheme": "vs",
         "path": "./themes/thm.json"
       }
