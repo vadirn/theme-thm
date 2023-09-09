@@ -1,19 +1,21 @@
 {
-  "name": "thm",
-  "displayName": "THM",
-  "description": "TODO",
+  "name": "github-light-simplified",
+  "displayName": "Github Light Simplified",
+  "description": "",
   "version": "0.0.1",
-  "publisher": "TODO",
+  "publisher": "",
   "engines": {
     "vscode": "^1.22.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "THM",
+        "label": "Github Light Simplified",
         "uiTheme": "vs",
-        "path": "./themes/thm.json"
+        "path": "./themes/github-light-simplified.json"
       }
     ]
   }
