@@ -280,10 +280,10 @@
   ],
   "semanticTokenColors": {
     "type": {
-      "fontStyle": "underline"
+      "foreground": "#8250df"
     },
     "interface": {
-      "fontStyle": "underline"
+      "foreground": "#8250df"
     },
     "function.declaration": {
       "fontStyle": "bold"
